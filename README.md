@@ -26,7 +26,8 @@ git log --oneline
 
 git push origin master
 
-How to get master changes to local branch
+#How to get master changes to local branch#
+
 git pull origin master
 
 
