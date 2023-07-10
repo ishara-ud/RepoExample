@@ -17,7 +17,7 @@ git commit -m "commit message"
 #How to check logs#
 git log --oneline
 
-#How to push commit to origin master#
+#How to push commits to origin master#
 git push origin master
 
 #How to get master changes to local branch#
